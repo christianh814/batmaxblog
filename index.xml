@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Batmax</title>
-    <link>https://christianh814.github.io/batmax/</link>
+    <link>https://christianh814.github.io/batmaxblog/</link>
     <description>Recent content on Batmax</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Nov 2021 14:19:50 -0800</lastBuildDate><atom:link href="https://christianh814.github.io/batmax/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Nov 2021 14:19:50 -0800</lastBuildDate><atom:link href="https://christianh814.github.io/batmaxblog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mypost</title>
-      <link>https://christianh814.github.io/batmax/posts/mypost/</link>
+      <link>https://christianh814.github.io/batmaxblog/posts/mypost/</link>
       <pubDate>Wed, 24 Nov 2021 14:19:50 -0800</pubDate>
       
-      <guid>https://christianh814.github.io/batmax/posts/mypost/</guid>
+      <guid>https://christianh814.github.io/batmaxblog/posts/mypost/</guid>
       <description>This is a test
 echo &amp;#34;hello world&amp;#34; </description>
     </item>
